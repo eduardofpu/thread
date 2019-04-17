@@ -1,0 +1,12 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(—’Ø¹8­»¨ˆ¢-
+_squid:S1155">Use isEmpty() to check whether the collection is empty or not.(ÁÏ€úûÿÿÿÿ8¨ð“ˆ¢-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ç¿æÍþÿÿÿÿ8¨ð“ˆ¢-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ü×’Ò8­»¨ˆ¢-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¨ð“ˆ¢-
+…squid:S2273"dMove this call to "notifyAll()" into a synchronized block to be sure the monitor on "Queue" is held.(ïð¢Éüÿÿÿÿ8É³‚Š¢-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(öù´ 8‡Óü‰¢-

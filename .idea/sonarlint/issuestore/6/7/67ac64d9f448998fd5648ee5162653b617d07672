@@ -1,0 +1,19 @@
+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¼ê¢–¡-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Œàİ“8ÅØ“–¡-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ùõ–¡-
+Vsquid:S1161":Add the "@Override" annotation above this method signature(“–ış8ı”–¡-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŠÛÙ…8—ì––¡-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(€ß‘ñ8ô†˜–¡-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(û‡¥¼8ı”–¡-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(«ÄÄ…ûÿÿÿÿ8‘»¡–¡-
+dsquid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¤ù»ÿÿÿÿÿ8¼ê¢–¡-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡ö†í8Œ”–¡-
+dsquid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¤ù»ÿÿÿÿÿ8ùõ–¡-
+Vsquid:S1161":Add the "@Override" annotation above this method signature(“–ış8ÿÄ–¡-

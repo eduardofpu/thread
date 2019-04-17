@@ -1,0 +1,24 @@
+
+dsquid:S2142""FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8´„¶•¡-
+[
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ëóÁ™ùÿÿÿÿ8´„¶•¡-
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ğØİúÿÿÿÿ8´„¶•¡-
+Fsquid:S1148#"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8´„¶•¡-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ëóÁ™ùÿÿÿÿ8´„¶•¡-
+Wsquid:UnusedPrivateMethod0"+Remove this unused private "saque2" method.(üã°±8´„¶•¡-
+fsquid:S2276!"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ8´„¶•¡-
+asquid:S22767"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(òÆÇï8´„¶•¡-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ô¯¹8´„¶•¡-
+V
+squid:S106>"9Replace this use of System.out or System.err by a logger.(İ‹€¥8´„¶•¡-
+V
+squid:S106K"9Replace this use of System.out or System.err by a logger.(İÆüÉ8´„¶•¡-
+Fsquid:S11489"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8´„¶•¡-
+dsquid:S21428"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8´„¶•¡-
+[
+squid:S106@"9Replace this use of System.out or System.err by a logger.(ğØİúÿÿÿÿ8´„¶•¡-
+V
+squid:S106("9Replace this use of System.out or System.err by a logger.(İ‹€¥8´„¶•¡-
